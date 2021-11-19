@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    {% include head.html %}
+    {% include mathjax.html %}
+    {% if page.image %}
+      <meta content="{{ page.image }}" property="og:image" />
+    {% else %}
+      <meta content="https://avatars3.githubusercontent.com/u/63294263?s=460&v=4" property="og:image" />
+    {% endif %}
+    {% if page.url == "/404.html" %}
+        <meta http-equiv="refresh" content="5; url=/">
+    {% endif %}
+    <link rel="shortcut icon" type="image/png" href="assets/favicon.ico"/>
+    <style type="text/css">
+      .foo {
+      text-align: center;
+      width: 300px;
+      }
+    </style>
+  </head>
+
+  <body>
+
+    {% include header.html %}
+
+    <div class="page-content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </div>
+
+    {% include footer.html %}
+    {% include disqus.html %}
+    {% include analytics.html %}
+  </body>
+
+</html>

@@ -1,0 +1,23 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Nimoth Village
+full_name: Nimoth Village
+email: nimothvillagehr@gmail.com
+email2: 
+description: "Everything about Nimoth!"
+baseurl: "" 
+url: "http://nimothvillage.github.io" # the base hostname & protocol for your site
+github_username:  nimothvillage
+twitter_username: 
+linkedin_username: 
+include: ['_pages']
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
