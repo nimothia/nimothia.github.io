@@ -10,10 +10,10 @@ title: Nimoth Village
 full_name: Nimoth Village
 email: nimothvillagehr@gmail.com
 email2: 
-description: "Everything about Nimoth!"
+description: © https://nimrobotics.com/
 baseurl: "" 
-url: "http://nimothvillage.github.io" # the base hostname & protocol for your site
-github_username:  nimothvillage
+url: "http://nimoth-org.github.io" # the base hostname & protocol for your site
+github_username:  nimoth-org
 twitter_username: 
 linkedin_username: 
 include: ['_pages']
