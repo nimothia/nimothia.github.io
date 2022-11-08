@@ -8,12 +8,12 @@
 # Site settings
 title: Nimoth Village
 full_name: Nimoth Village
-email: nimoth.org@gmail.com
+email: nimothia@gmail.com
 email2: 
 description: © https://nimrobotics.com/
 baseurl: "" 
 url: "http://nimoth-org.github.io" # the base hostname & protocol for your site
-github_username:  nimoth-org
+github_username:  nimothia
 twitter_username: 
 linkedin_username: 
 include: ['_pages']
