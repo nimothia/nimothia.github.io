@@ -24,16 +24,9 @@ I [blog]({{ site.url }}/blog.html) the journey of an Electrical Engineer delving
 <table>
 <col width="120px">
 <col width="650px">
-<tr><td><b>Mar 2020:</b></td><td>In view of the prevailing situation due to COVID19 people are advised to stay at home </td>
+<tr><td><b>Mar 2020:</b></td><td>New website <a href="https://nimoth.org/">nimoth.org</a> launched </td>
 </tr>
-<tr><td><b>Mar 2020:</b></td><td>COVID19: Don't hoard groceries and essentials. Please ensure that people who are in need don't face a shortage because of you!</td>
-</tr>
-<tr><td><b>Mar 2020:</b></td><td>COVID19: Wash your hands with soap and water often, especially after a grociery run. Keep the virus at bay. </td>
-</tr>
-<tr><td><b>Mar 2020:</b></td><td>In view of the prevailing situation due to COVID19 people are advised to stay at home </td>
-</tr>
-<tr><td><b>Mar 2020:</b></td><td>COVID19: Don't hoard groceries and essentials. Please ensure that people who are in need don't face a shortage because of you!</td>
-</tr>
+    
 <tr><td><b>Mar 2020:</b></td><td>COVID19: Wash your hands with soap and water often, especially after a grociery run. Keep the virus at bay. </td>
 </tr>
 
