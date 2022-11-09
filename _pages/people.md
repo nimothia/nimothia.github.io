@@ -68,7 +68,7 @@ html {
 <div class="row">
   <div class="column">
     <div class="card">
-      <img src="{{ site.url }}/assets/me.jpg" alt="Jane" style="width:100%">
+      <img src="{{ site.url }}/assets/me.jpg" alt="aakash" style="width:100%">
       <div class="container">
         <h4>Aakash Yadav</h4>
         <p class="title">Founder</p>
@@ -85,7 +85,7 @@ html {
   
   <div class="column">
     <div class="card">
-      <img src="{{ site.url }}/assets/me.jpg" alt="John" style="width:100%">
+      <img src="{{ site.url }}/assets/user.png" alt="user" style="width:100%">
       <div class="container">
         <h4>Your Name</h4>
         <p class="title">Your current job/post/area of work</p>
