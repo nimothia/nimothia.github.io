@@ -24,7 +24,7 @@ I [blog]({{ site.url }}/blog.html) the journey of an Electrical Engineer delving
 <table>
 <col width="120px">
 <col width="650px">
-<tr><td><b>Mar 2020:</b></td><td>New website <a href="https://nimoth.org/">nimoth.org</a> launched </td>
+<tr><td><b>Nov 2022:</b></td><td>New website <a href="https://nimoth.org/">nimoth.org</a> launched </td>
 </tr>
     
 <tr><td><b>Mar 2020:</b></td><td>COVID19: Wash your hands with soap and water often, especially after a grociery run. Keep the virus at bay. </td>
