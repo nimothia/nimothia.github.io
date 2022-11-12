@@ -1,0 +1,198 @@
+I"�<!-- TODO -->
+<!-- https://css-tricks.com/seamless-responsive-photo-grid/ -->
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center"><img src="http://localhost:4000/assets/baba1.jpg" /></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center"><em>बाबा बिशंदास मंदिर, ग्राम निमोठ</em></td>
+    </tr>
+  </tbody>
+</table>
+
+<p><br /></p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center"><img src="http://localhost:4000/assets/baba2.jpg" /></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center"><em>बाबा बिशंदास मंदिर, ग्राम निमोठ</em></td>
+    </tr>
+  </tbody>
+</table>
+
+<p><br /></p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center"><img src="http://localhost:4000/assets/baba3.jpg" /></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center"><em>बाबा बिशंदास मंदिर, ग्राम निमोठ</em></td>
+    </tr>
+  </tbody>
+</table>
+
+<p><br /></p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center"><img src="http://localhost:4000/assets/baba4.jpg" /></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center"><em>बाबा बिशंदास मंदिर, ग्राम निमोठ</em></td>
+    </tr>
+  </tbody>
+</table>
+
+<p><br /></p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center"><img src="http://localhost:4000/assets/baba5.jpg" /></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center"><em>बाबा बिशंदास मंदिर, ग्राम निमोठ</em></td>
+    </tr>
+  </tbody>
+</table>
+
+<p><br /></p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center"><img src="http://localhost:4000/assets/baba6.jpg" /></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center"><em>बाबा बिशंदास मंदिर, ग्राम निमोठ</em></td>
+    </tr>
+  </tbody>
+</table>
+
+<p><br /></p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center"><img src="http://localhost:4000/assets/baba7.jpg" /></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center"><em>बाबा बिशंदास मंदिर, ग्राम निमोठ</em></td>
+    </tr>
+  </tbody>
+</table>
+
+<p><br /></p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center"><img src="http://localhost:4000/assets/baba8.jpg" /></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center"><em>बाबा बिशंदास मंदिर, ग्राम निमोठ</em></td>
+    </tr>
+  </tbody>
+</table>
+
+<p><br /></p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center"><img src="http://localhost:4000/assets/baba9.jpg" /></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center"><em>बाबा बिशंदास मंदिर, ग्राम निमोठ</em></td>
+    </tr>
+  </tbody>
+</table>
+
+<p><br /></p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center"><img src="http://localhost:4000/assets/baba10.jpg" /></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center"><em>बाबा बिशंदास मंदिर, ग्राम निमोठ</em></td>
+    </tr>
+  </tbody>
+</table>
+
+<p><br /></p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center"><img src="http://localhost:4000/assets/baba11.jpg" /></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center"><em>बाबा बिशंदास मंदिर, ग्राम निमोठ</em></td>
+    </tr>
+  </tbody>
+</table>
+
+<p><br /></p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center"><img src="http://localhost:4000/assets/baba12.jpg" /></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center"><em>बाबा बिशंदास मंदिर, ग्राम निमोठ</em></td>
+    </tr>
+  </tbody>
+</table>
+
+<p><br /></p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center"><img src="http://localhost:4000/assets/baba13.jpg" /></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center"><em>बाबा बिशंदास मंदिर, ग्राम निमोठ</em></td>
+    </tr>
+  </tbody>
+</table>
+
+<p><br /></p>
+:ET
